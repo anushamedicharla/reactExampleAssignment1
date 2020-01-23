@@ -1,0 +1,15 @@
+.userInput .Input{
+    width: 80%;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.userInput {
+    border: 1px solid blue;
+    padding: 15px 5px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
